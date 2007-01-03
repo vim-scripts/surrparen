@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1753
+
+The surrparen plugin hilights a pair of parens/braces that surround
+the cursor position automatically. Unlike the matchparen.vim, it works 
+even when the cursor is not just on a paren/brace.
+It's useful especially for texts that have many parens like lisp source.
